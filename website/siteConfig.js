@@ -18,6 +18,12 @@ const users = [
     infoLink: 'https://www.facebook.com',
     pinned: true,
   },
+    {
+    caption: 'SharxDC LLC',
+    image: 'img/sharxdc.png',
+    infoLink: 'http://sharxdc.ru',
+    pinned: true,
+  },
 ];
 
 const siteConfig = {
